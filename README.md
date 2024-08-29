@@ -1,10 +1,12 @@
-# PumpFunBumpBot
+# PumpFunVolumeBot
 Free to use bump bot for your pump fun tokens
-# pump-fun-bump-bot
+# pump-fun-volume-bot
 
 This bot buy and sell automatically on pump.fun and raydium. 
+
 This bot is open-source and to support the project a fixed amount is taken off of every transaction.
-it can be used to be displayed on the main page of pump.fun.
+
+It can be used to be displayed on the main page of pump.fun.
 
 ## Demo 
 
@@ -16,7 +18,7 @@ it can be used to be displayed on the main page of pump.fun.
 If you have git installed on your computer you can fetch the content of this repository with the command : 
 
 ```
-git clone https://github.com/GandaFixe/PumpFunTransactionBot.git
+git clone https://github.com/FixeGanda/PumpFunVolumeBot.git
 ```
 
 Or you can just Download the Bot by clicking in the CODE button and Download the ZIP file
