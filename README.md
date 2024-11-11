@@ -8,6 +8,8 @@ This bot is open-source and to support the project a fixed amount is taken off o
 
 It can be used to be displayed on the main page of pump.fun.
 
+NOTE: REMEMBER THAT FOR A TRANSACTION TO BE DISPLAYED YOU NEED TO HAVE A BUY AMOUNT OF AT LEAST 0.01 Sol
+
 ## Demo 
 
 [![Demo](https://img.youtube.com/vi/KIq8JfL0Ws0/0.jpg)](https://www.youtube.com/watch?v=c6FyrAK1pP4)
