@@ -1,5 +1,5 @@
 # PumpFunVolumeBot
-Free to use bump bot for your pump fun tokens
+Free to use bump bot for your meme coins / pump fun tokens.
 # pump-fun-bump-bot
 
 This bot buy and sell automatically on pump.fun and raydium. 
